@@ -1,0 +1,16 @@
+1. Face Recognition
+2. Face compression
+3. Face clustering (in scikit learn)
+4. Face clustering (in Keras)
+5. Face clustering (in TensorFlow and visualizing model pipeline in TensorBoard)
+6. Face clustering (in PyTorch)
+7. Make Web App
+8. Classify gender  (in scikit learn)
+9. Classify gender  (in Tensorflow and visualizing model pipeline in TensorBoard)
+10. Classify gender (in Keras)
+11. Classify gender (in PyTorch)
+12. Trining Captioning
+13. Captioning image (in scikit learn)
+14. Captioning image (in Keras)
+15. Captioning image (in PyTorch)
+16. Captioning image (in Tensorflow and visualizing model pipeline in TensorBoard) 

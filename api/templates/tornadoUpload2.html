@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>API Page</title>
+</head>
+
+<style>
+
+  .title{       font-family:    Arial, Helvetica, sans-serif;
+                font-size:      25px;
+                font-weight:    bold;
+        }
+</style>
+
+
+
+
+<body>
+  <div class='title'>
+    <h1>VOILA </h1>
+    <h6>FACE RECOGNITION AND CLUSTERING OF IMAGES </h6>
+    <br><br>
+  </div>
+<h2>This is the upload page</h2>
+<form enctype="multipart/form-data" method="POST" action="/upload">
+  <table style="width: 50%" align="center">
+    <tr>
+      <td>Choose the files to upload:</td>
+      <td style="text-align: center"><input type="file" multiple="" id="files" name="files"></td>
+    </tr>
+    <br>
+    <tr>
+      <td><input id="fileUploadButton" type="submit" value="Upload >>"></td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>
